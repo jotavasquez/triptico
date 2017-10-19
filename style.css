@@ -1,0 +1,103 @@
+#contenedor {
+	width:533px;
+	border-color:#000;
+	border-width: 1px;
+	border-style: solid;
+	border-bottom-width: 0px;
+	border-top-width: 0px;
+	float: left;
+	
+}
+
+#yellow {
+	background-color: #FFC107;
+	border-style: solid;
+	border-color: #000;
+	border-width: 1px;
+	width: 100%;
+	border-right: 0px;
+	border-left: 0px;
+	float: left;
+
+}
+
+h4, h3, h2, h1 {
+	text-align: center;
+}
+
+/*.columnatexto {
+	width: 115px;
+	height: : 410px;
+	float: left;
+	padding: 15px;
+
+}
+*/
+h1 {
+	font-size: 150%;
+}
+
+#antes {
+	width: 20%;
+	float: left;
+	border-style: solid;
+	border-width: 1px;
+	border-top: 0px;
+	border-bottom: 0px;
+	border-left: 1px;
+	border-right: 1px;
+
+
+}
+.monopoly {
+	width: 39%;
+	height: : 410px;
+	float: left;
+	padding: 40px;
+	border-style: solid;
+	border-width: 1px;
+	border-top: 0px;
+	border-bottom: 0px;
+}
+
+#despues {
+	width: 20%;
+	float: right;
+
+}
+
+
+#footer {
+	float: left;
+	clear: right;
+	background-color: #FFC107;
+	border-style: solid;
+	border-color: #000;
+	border-width: 1px;
+	width: 100%;
+	border-right: 0px;
+	border-left: 0px;
+}
+
+p{
+	text-align: justify;
+	padding: 15px;
+
+}
+
+#antes img {
+	width: 100%;
+	float: left;
+	display:block;
+}
+
+#despues img {
+	width: 100%;
+	display:block;
+	padding: 0px;
+}
+
+.imagen {
+	text-align:center;
+	padding: 0px;
+}
